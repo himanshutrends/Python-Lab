@@ -1,0 +1,14 @@
+Powerful Admin Interface
+Friendly Option Panel: We design option panel very friendly and easy to understand for use it.
+About Listing:
+Flexible Listing Category: each category have different feature, additional features for listing page. Listing content/sidebar widgets order are layout differently.
+Unlimited Listing Features
+Great Grid/List layout for CityListing and Beautiful Listing Single Page Layouts
+Working Hour for Listing
+Review, Like/Unlike and Rate for Listing single
+Built-in Listing social share
+Listing price range and claim system
+5 listing AD widgets
+Custom shortcode support
+Support for Easy Appointments and Booking Calendar
+lar internet browsers, Firefox, Chrome, Safari, Opera.
